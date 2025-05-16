@@ -26,10 +26,10 @@ namespace ApplicationsChallenge.API.Data
                 new User 
                 { 
                     Id = 1, 
-                    Username = "admin", 
+                    Username = "admin",
                     // In production, you would never store plain passwords
                     // These are hashed values (for demo purposes)
-                    PasswordHash = "AQAAAAIAAYagAAAAEAGnKUTF2h3sMHiOXEoueZBaYlHx7vvv6M0qLDQPrj6SH7apaJlZ/FMbT3q8XzjQdA==", 
+                    PasswordHash = "UWFXBvITKellUPUVB2tGaK+0jt8Cd3PAi3uTb7ul06c=", 
                     PasswordSalt = "4vSAYDkoK5PHeNUzYC0kXAuKAu6qImnRhdUrUlGnS8Y="
                 }
             );
